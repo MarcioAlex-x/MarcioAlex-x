@@ -1,5 +1,5 @@
 # Bem vindo!
-###### Olá me chamo Márcio Alex, seja bem vindo ao meu perfil!
+##### Olá me chamo Márcio Alex, seja bem vindo ao meu perfil!
 
 Eu sou estudante de tecnologia e apaixonado pela ideia de ter o poder criar algo que sei que vai fazer parte de vidas, auxliando, mudando, guiando etc.
 
@@ -20,9 +20,8 @@ Eu sou estudante de tecnologia e apaixonado pela ideia de ter o poder criar algo
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
 </div>
             
-<div>            <a href="https://github.com/MarcioAlex-x">
-            <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?MarcioAlex-x&layout=compact&langs_count=7&theme=dracula"/>
-            <img height="180em" src="https://github-readme-stats.vercel.app/api?MarcioAlex-x&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<div>           
+            ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=MarcioAlex-x)
 </div>
 
 ## Contatos:
