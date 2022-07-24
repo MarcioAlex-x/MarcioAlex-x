@@ -1,16 +1,42 @@
-### Hi there 👋
+# Bem vindo!
+###### Olá me chamo Márcio Alex, seja bem vindo ao meu perfil!
 
-<!--
-**MarcioAlex-x/MarcioAlex-x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Eu sou estudante de tecnologia e apaixonado pela ideia de ter o poder criar algo que sei que vai fazer parte de vidas, auxliando, mudando, guiando etc.
 
-Here are some ideas to get you started:
+## Ferramentas:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+            
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+          
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+          
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+            
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
+          
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
+          
+## Estou estudando:
+
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
+          
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+            
+<div>
+  <a href="https://github.com/MarcioAlex-x">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?MarcioAlex-x&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?MarcioAlex-x&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+
+## Contatos:
+<div>
+  <a href = "mailto:marcioalex586@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/alex-freitas-6a510621a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the- badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
+          
+
+
+
