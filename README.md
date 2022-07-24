@@ -5,6 +5,7 @@ Eu sou estudante de tecnologia e apaixonado pela ideia de ter o poder criar algo
 
 ## Ferramentas:
 
+<div>
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
             
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
@@ -18,6 +19,7 @@ Eu sou estudante de tecnologia e apaixonado pela ideia de ter o poder criar algo
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
           
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
+</div>
           
 ## Estou estudando:
 
