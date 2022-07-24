@@ -10,7 +10,7 @@ Eu sou estudante de tecnologia e apaixonado pela ideia de ter o poder de criar a
 
  <h2 text-align="center">Tecnologias e ferramentas:</h2>
 
-<div border="1px solid black">
+<div>
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>            
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>          
@@ -19,7 +19,7 @@ Eu sou estudante de tecnologia e apaixonado pela ideia de ter o poder de criar a
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="40" height="40"/>          
 </div>
           
-## Estou estudando:
+ <h2>Estou estudando:</h2>
 <div>
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40"/>          
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
@@ -27,7 +27,7 @@ Eu sou estudante de tecnologia e apaixonado pela ideia de ter o poder de criar a
             
 
 
-## Contatos:
+ <h2 style="border: 1px solid black;">Contatos:</h2>
 <div>
   <a href = "mailto:marcioalex586@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"  height="40"></a>
   <a href="https://www.linkedin.com/in/alex-freitas-6a510621a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the- badge&logo=linkedin&logoColor=white" target="_blank" height="40"></a>   
