@@ -28,8 +28,8 @@ Eu sou estudante de tecnologia e apaixonado pela ideia de ter o poder criar algo
 
 ## Contatos:
 <div>
-  <a href = "mailto:marcioalex586@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" width="40" height="40"></a>
-  <a href="https://www.linkedin.com/in/alex-freitas-6a510621a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the- badge&logo=linkedin&logoColor=white" target="_blank" width="40" height="40"></a>   
+  <a href = "mailto:marcioalex586@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"  height="40"></a>
+  <a href="https://www.linkedin.com/in/alex-freitas-6a510621a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the- badge&logo=linkedin&logoColor=white" target="_blank" height="40"></a>   
 </div>
           
 
