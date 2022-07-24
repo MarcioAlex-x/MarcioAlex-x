@@ -1,7 +1,12 @@
  <h1>Bem vindo!</h1>
  <h4>Olá me chamo Márcio Alex, seja bem vindo ao meu perfil!</h4>
 
-Eu sou estudante de tecnologia e apaixonado pela ideia de ter o poder criar algo que sei que vai fazer parte de vidas, auxliando, mudando, guiando etc.
+Eu sou estudante de tecnologia e apaixonado pela ideia de ter o poder de criar algo que sei que vai fazer parte de vidas, auxliando, mudando, guiando etc.
+<div>
+<a href="https://github.com/MarcioAlex-x">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcioAlex-x&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MarcioAlex-x&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
 
 ## Ferramentas:
 
@@ -20,11 +25,7 @@ Eu sou estudante de tecnologia e apaixonado pela ideia de ter o poder criar algo
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
 </div>
             
-<div>
-<a href="https://github.com/MarcioAlex-x">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcioAlex-x&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MarcioAlex-x&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
+
 
 ## Contatos:
 <div>
