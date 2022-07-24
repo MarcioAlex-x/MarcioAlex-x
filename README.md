@@ -8,9 +8,9 @@ Eu sou estudante de tecnologia e apaixonado pela ideia de ter o poder de criar a
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MarcioAlex-x&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
- <h3 text-align="center">Tecnologias e ferramentas</h3>
+ <h2 text-align="center">Tecnologias e ferramentas:</h2>
 
-<div>
+<div border="1px solid black">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>            
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>          
