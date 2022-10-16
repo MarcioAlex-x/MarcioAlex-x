@@ -24,7 +24,7 @@ Eu sou estudante de tecnologia e apaixonado pela ideia de ter o poder de criar a
  <h2 style="text-align">Estou estudando:</h2>
 <div>
                         
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
           
 </div>
             
