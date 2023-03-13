@@ -1,7 +1,7 @@
  <h1>Bem vindo!</h1>
  <h4>Olá me chamo Márcio Alex, seja bem vindo ao meu perfil!</h4>
 
-Eu sou estudante de tecnologia e apaixonado pela ideia de ter o poder de criar algo que sei que vai fazer parte de vidas, auxliando, mudando, guiando etc.
+Eu sou estudante de tecnologia, professor de programação e apaixonado pela ideia de ter o poder de criar algo que sei que vai fazer parte de vidas, auxliando, mudando, guiando etc.
 <div>
 <a href="https://github.com/MarcioAlex-x">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcioAlex-x&layout=compact&langs_count=7&theme=dracula"/>
