@@ -1,7 +1,13 @@
  <h1>Bem vindo!</h1>
  <h4>Olá me chamo Márcio Alex, seja bem vindo ao meu perfil!</h4>
 
-Eu sou estudante de tecnologia, professor de programação e apaixonado pela ideia de ter o poder de criar algo que sei que vai fazer parte de vidas, auxliando, mudando, guiando etc.
+<p>Olá, eu me chamo Alex Freitas, sou formado em TI no curso de Sistemas para Internet pela UNIESP-Centro Universitário da Paraíba, com ênfase no desenvolvimento web. 
+</br>
+Desde o segundo periodo da formação em tecnologia que estou como instrutor de programação e desenvolvimento web.
+</br>
+Neste Github você encontrará repósitórios referentes aos meus projetos, estudos e aulas que venho ministrando no decorrer dessa jornada.
+</p>
+
 <div>
 <a href="https://github.com/MarcioAlex-x">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcioAlex-x&layout=compact&langs_count=7&theme=dracula"/>
