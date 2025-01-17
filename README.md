@@ -1,7 +1,7 @@
  <h1>Bem vindo!</h1>
  <h4>Olá me chamo Márcio Alex, seja bem vindo ao meu perfil!</h4>
 
-<p>Sou um entusiasta da tecnologia da inormação e estou em transição de carreira de instrutor de programação e desenvolvimento web para desenvolvedor. Tenho sólida experiência com tecnologias front-end, como JQuery, React, Vue, Bootstrap e também com backend, usando Django. Além das minhas experiências, em minha jornada de aprendizagem, eu já estudei PHP, Laravel, Java, Python, SpringBoot, SQL, Grunt e Cypress entre outras ferramentas voltadas para o desenvolvimento web.</p>
+<p>Sou um entusiasta da tecnologia da informação e estou em transição de carreira de instrutor de programação e desenvolvimento sistemas para desenvolvedor. Tenho sólida experiência com tecnologias front-end, como JQuery, React, Vue, Bootstrap e também com backend, usando Django e NodeJS. Além das minhas experiências, em minha jornada de aprendizagem, eu já estudei PHP, Laravel, Java, Python, SpringBoot, SQL, Grunt e Cypress entre outras ferramentas voltadas para o desenvolvimento web.</p>
 
 <p>Além de ensinar, escrevi os livros 'Escrevendo JavaScript' e 'Primeiros Passos com Django', refletindo minha paixão por compartilhar conhecimento. Meu domínio do Git assegura um fluxo de trabalho eficiente em equipe.</p>
 
